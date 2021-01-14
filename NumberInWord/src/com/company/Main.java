@@ -3,8 +3,17 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
+        // testcode
+
         printNumberInWord(4);
+        printNumberInWord(0);
+        printNumberInWord(25);
+        printNumberInWord(-15);
     }
+
+    // uses switch statement to detect numbers from 0 to 9, then prints them out as a word
+    // for all other numbers prints the message "other"
 
     public static void printNumberInWord(int number) {
         switch (number) {
