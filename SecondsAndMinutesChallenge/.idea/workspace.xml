@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8976e03b-baaf-451c-866c-c0de87cff436" name="Default Changelist" comment="" />
+    <list default="true" id="8976e03b-baaf-451c-866c-c0de87cff436" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/src/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/out/production/DayOfTheWeekChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/out/production/DayOfTheWeekChallenge/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/out/production/NumberInWord/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/out/production/NumberInWord/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/out/production/SpeedConverter/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeedConverter/src/SpeedConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SumOdd/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumOdd/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SumOdd/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SumOdd/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WyXOnEy6fv2nd831SC0nU4kR1y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,5 +88,18 @@
       <updated>1580122778182</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
